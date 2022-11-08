@@ -1,4 +1,5 @@
 <?php
+// This is our backend code we are
 require_once('conn.php');
 $conn = DBConnect();
 
